@@ -6,3 +6,7 @@ def roll
   # code goes here
 end
 
+
+def roll
+  # code goes here
+end
